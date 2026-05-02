@@ -58,7 +58,7 @@ function EditPhotoDetails({ photo, updatePhoto }) {
       <h2>Edit Photo Details</h2>
 
       <Image
-        src={`http://www.randyconnolly.com/funwebdev/3rd/images/travel/medium640/${photo.filename}`}
+        src={`https://www.randyconnolly.com/funwebdev/3rd/images/travel/medium640/${photo.filename}`}
         alt={photo.title}
       />
 

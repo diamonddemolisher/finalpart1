@@ -45,7 +45,7 @@ const Button = styled.button`
 function PhotoThumb({ photo, showImageDetails }) {
   const [isFavorite, setIsFavorite] = useState(false);
 
-  const imageLink = `http://www.randyconnolly.com/funwebdev/3rd/images/travel/square150/${photo.filename}`;
+  const imageLink = `https://www.randyconnolly.com/funwebdev/3rd/images/travel/square150/${photo.filename}`;
 
   return (
     <PhotoBox>

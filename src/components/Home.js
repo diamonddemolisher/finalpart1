@@ -41,7 +41,7 @@ const Button = styled.button`
 
 const Banner = styled.div`
   height: 800px;
-  background-image: url("https://www.randyconnolly.com/funwebdev/3rd/images/travel/large1600/9496792166.jpg");
+  background-image: url("http://www.randyconnolly.com/funwebdev/3rd/images/travel/large1600/9496792166.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
